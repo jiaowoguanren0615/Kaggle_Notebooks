@@ -1,6 +1,10 @@
+<div align="center">
+    
 # Kaggle Notebook Journey
 
 A collection of my Kaggle notebooks, competition solutions, machine learning experiments, and learning notes.
+
+</div>
 
 ---
 
