@@ -19,6 +19,8 @@ The main purposes are:
 ---
 
 ## 📁 Repository Structure
+
+```
 Kaggle/
 │
 ├── competitions/              # core
@@ -62,6 +64,7 @@ Kaggle/
     ├── data_utils.py
     ├── model_utils.py
     └── visualization_utils.py
+```
 
 
 ---
