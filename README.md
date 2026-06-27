@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 # Kaggle Notebook Journey
 
 A collection of my Kaggle notebooks, competition solutions, machine learning experiments, and learning notes.
@@ -31,8 +31,8 @@ Kaggle/
 │   ├── titanic/
 │   │   ├── notebook.ipynb
 │   │   ├── submission.csv
-│   │   ├── data/             
-│   │   └── README.md         
+│   │   ├── data/   
+│   │   └── README.md   
 │   │
 │   ├── house-prices/
 │   └── playground-series/
@@ -42,7 +42,7 @@ Kaggle/
 │   ├── house_prices_eda.ipynb
 │   └── general_visualization.ipynb
 │
-├── feature-engineering/      
+├── feature-engineering/  
 │   ├── missing_values.ipynb
 │   ├── encoding_methods.ipynb
 │   ├── scaling_normalization.ipynb
@@ -53,23 +53,25 @@ Kaggle/
 │   ├── lgb_baseline.ipynb
 │   └── ensemble_try.ipynb
 │
-├── templates/                
+├── templates/  
 │   ├── kaggle_tabular_template.ipynb
 │   ├── cv_validation_template.ipynb
 │   └── submission_template.ipynb
 │
-├── notes/                   
+├── notes/   
 │   ├── kaggle_tips.md
 │   ├── feature_engineering.md
 │   ├── model_selection.md
 │   └── mistakes_log.md
 │
-└── utils/                    # functional
+└── util/                    # functional
     ├── data_utils.py
+    ├── engine.py
+    ├── losses.py
     ├── model_utils.py
+    ├── utils.py
     └── visualization_utils.py
 ```
-
 
 ---
 
